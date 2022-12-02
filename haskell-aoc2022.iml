@@ -10,5 +10,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="base-4.16.4.0" level="project" />
+    <orderEntry type="library" name="ghc-bignum-1.2" level="project" />
+    <orderEntry type="library" name="ghc-prim-0.8.0" level="project" />
   </component>
 </module>
