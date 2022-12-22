@@ -30,6 +30,7 @@ library
       Day3
       Day4
       Day5
+      Day6
   other-modules:
       Paths_haskell_aoc2022
   hs-source-dirs:
